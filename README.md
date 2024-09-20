@@ -6,7 +6,7 @@ Welcome to BruteForceApp! This project is a powerful tool for performing brute f
 
 To install BruteForceApp, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/BruteForceApp.git`
+1. Clone the repository: `git clone https://github.com/RangiraDave/BruteForceApp.git`
 2. Navigate to the project directory: `cd BruteForceApp`
 3. Install the required dependencies: `pip install -r requirements.txt`
 
